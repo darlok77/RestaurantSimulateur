@@ -26,3 +26,4 @@ Le client dispose d'une x somme en arrivant et une vérification doit être effe
 | [Client](https://github.com/RedGuff/RestaurantSimulateur/blob/master/docs/Client.md)
 "# RestaurantSimulateur" 
 "# RestaurantSimulateur" 
+"# RestaurantSimulateur" 
